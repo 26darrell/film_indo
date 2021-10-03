@@ -21,7 +21,7 @@
 
 6
 00:01:49,199 --> 00:01:50,387
-Oke.
+Ok.
 
 7
 00:01:50,595 --> 00:01:52,089
@@ -63,7 +63,7 @@ Lalu kenapa kita disini?
 
 16
 00:02:22,431 --> 00:02:23,629
-Aku tahu yang kau pikirkan.
+Gw tahu yang kau pikirkan.
 
 17
 00:02:25,640 --> 00:02:28,343
